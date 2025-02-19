@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pavlovclaymor
-- 👀 I’m interested in C#
+- 👀 I’m interested in devlopment web
+- eu entendo de HTML5,CSS3,JavaScript,MongoDB e NodeJs.
 - 🌱 I’m currently learning MySql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
